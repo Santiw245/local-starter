@@ -7,4 +7,5 @@
     <string name="help_text">Jika Anda memerlukan bantuan, hubungi Departemen Dukungan kami.</string>
     <string name="dial_log_message">Tidak dapat menyelesaikan aplikasi untuk Maksud ACTION_DIAL.</string>
     <string name="action_language">Bahasa</string>
+    <string name="expired_label">Tanggal Kadarluarsa :</string>
 </resources>

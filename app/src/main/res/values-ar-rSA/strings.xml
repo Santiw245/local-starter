@@ -7,4 +7,5 @@
     <string name="help_text">إذا كنت بحاجة إلى مساعدة ، فاتصل بقسم الدعم لدينا.</string>
     <string name="dial_log_message">لا يمكن حل التطبيق لـ ACTION_DIAL Intent.</string>
     <string name="action_language">لغة</string>
+    <string name="expired_label">منتهي الصلاحية</string>
 </resources>
