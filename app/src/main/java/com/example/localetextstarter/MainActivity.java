@@ -66,6 +66,12 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
             return true;
         }
+//        menambah menu bahasa untuk menggantu bahasa yang digunakan
+        else if (id == R.id.action_language){
+            Intent languageIntent = new Intent(Settings.ACTION_LOCALE_SETTINGS);
+            startActivity(languageIntent);
+            return true;
+        }
         return super.onOptionsItemSelected(item);
     }
 }
