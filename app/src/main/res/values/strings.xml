@@ -18,7 +18,12 @@
     <string name="help_text">If you need help, contact our Support Department.</string>
 
     <!-- Do not translate.  -->
-    <string name="dial_log_message">Can\'t resolve app for ACTION_DIAL Intent.</string>
+    <string name="dial_log_message" translatable="false">Can\'t resolve app for ACTION_DIAL Intent.</string>
     <string name="action_language">Language</string>
     <string name="expired_label">Expired Date :</string>
+    <string name="quantity_label">Quantity:</string>
+    <string name="item_price">Price per Item (IDR):</string>
+    <string name="input_price">Input the price item</string>
+    <string name="convert_price">Total Price</string>
+    <string name="item_price_100">Price per 100 Item:</string>
 </resources>
